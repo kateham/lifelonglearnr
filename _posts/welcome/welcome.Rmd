@@ -27,7 +27,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # hey
 this is a test ok
-;lkajs;ldkjf;laksjd;lfkjas;ldkjfa;lskdjf
 ```{r}
 library(tidyverse)
 mtcars %>% head()
