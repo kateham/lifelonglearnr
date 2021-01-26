@@ -5,8 +5,6 @@ description: |
 author:
   - name: Kate Ham
     url: https://github.com/kateham
-    affiliation: CSSNY
-    affiliation_url: http://cssny.org/
 date: 01-25-2021
 categories:
   - aboutme

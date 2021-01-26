@@ -3,6 +3,7 @@ title: "Lifelong LearnR"
 description: |
   R tips about tidying, wrangling, and cleaning for future me (or anyone else) to reference
 output_dir: "_site"
+base_url: https://lifelonglearnr.netlify.app/
 navbar:
   right:
     - text: "Home"
