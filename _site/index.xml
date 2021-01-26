@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Lifelong LearnR</title>
+    <link>https://lifelonglearnr.netlify.app/</link>
+    <atom:link href="https://lifelonglearnr.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>R tips about tidying, wrangling, and cleaning for future me (or anyone else) to reference
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Lifelong LearnR</title>
+      <dc:creator>Kate Ham</dc:creator>
+      <link>https://lifelonglearnr.netlify.app/posts/welcome</link>
+      <description>Welcome to my new blog, Lifelong LearnR. Here I'll be posting R tips about tidying, wrangling, and cleaning for future me (or anyone else) to reference.</description>
+      <guid>https://lifelonglearnr.netlify.app/posts/welcome</guid>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
